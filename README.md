@@ -62,7 +62,7 @@ Guyzz Githubil നിന്നും വേറെ ഒരാളുടെ repo edi
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sydxyz/v1movies)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sydxyz/pmbot)
 
 ## Commands
 ```
